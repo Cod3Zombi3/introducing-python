@@ -6,3 +6,4 @@ cliches = [
     "The bottom line is"
     "If you will"
 ]
+print(cliches[3])
