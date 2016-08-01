@@ -6,4 +6,4 @@ cliches = [
     "The bottom line is",
     "If you will",
 ]
-print(clicgitdhes[3])
+print(cliches[3])
